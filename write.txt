@@ -1,0 +1,5 @@
+pen , 10, 10
+copy , 20, 30
+pani , 30, 60
+laptop , 50, 110
+marker , 50, 160
